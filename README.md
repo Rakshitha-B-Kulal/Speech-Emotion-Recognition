@@ -1,0 +1,1 @@
+Speech Emotion Recognition (SER) is a machine learning-based approach to identifying human emotions from speech signals. This project utilizes LSTM to classify emotions such as happy, sad, angry, neutral, etc., based on extracted audio features.
